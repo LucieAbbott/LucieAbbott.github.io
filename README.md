@@ -50,10 +50,11 @@
   <br>
   Our personal tools are designed for at home use. We offer tools meant for people of all skill levels. Whether you are a beginner or have years of experience, we have the right tools for you. We offer the highest quality tools at competitive prices.
   <br>
-  <center><font size = "4">Basic Tool Kit: <font style = "Garamond">$104.99</font></font>
-    <font size = "2">Our Basic Tool Kit is designed to set you up with the basic tools you will need to start fixing things up. It includes all the basic tools you will need like a hammer, screwdriver, pliers, wrenches, screws, nails, and bolts. </font>
-    <img src = "Toolkit.jpg>
-                            </center>
+  <center><font size = "4">Basic Tool Kit: <font style = "Garamond">$104.99</font></font></center>
+  <br>
+   <center><font size = "2">Our Basic Tool Kit is designed to set you up with the basic tools you will need to start fixing things up. It includes all the basic tools you will need like a hammer, screwdriver, pliers, wrenches, screws, nails, and bolts. </font></center>
+    <img src = "Toolkit.jpg" align = "center">
+                  
   <br>
   
 </body>
