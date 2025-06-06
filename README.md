@@ -17,7 +17,7 @@
   <ol>
     <li><font color = "Blue">Personal Tools and Products</font></li>
     <ul>
-       <li>Basic Tool Kit: Includes a hammer, screwdriver, pliers, wrench, screws, nails, and bolts. <i>(You can buy each of these tools individually as well)</i></li>
+       <li>Basic Tool Kit: Includes a hammer, screwdriver, pliers, wrench, screws, nails, and bolts. <i>(You can buy each of these tools individually as well).</i></li>
       <li>Power Drill</li>
       <li>Box Cutter</li>
       <li>Work Bench</li>
@@ -50,7 +50,7 @@
   <br>
   Our personal tools are designed for at home use. We offer tools meant for people of all skill levels. Whether you are a beginner or have years of experience, we have the right tools for you. We offer the highest quality tools at competitive prices.
   <br>
-  <center><font size = "4">Basic Tool Kit: <font style = "Garamond">$104.99</font></font></center>
+  <center><font size = "4">Basic Tool Kit: <font style = "Times New Roman">$104.99</font></font></center>
   <br>
    <center><font size = "2">Our Basic Tool Kit is designed to set you up with the basic tools you will need to start fixing things up. It includes all the basic tools you will need like a hammer, screwdriver, pliers, wrenches, screws, nails, and bolts. </font></center>
     <img src = "Toolkit.jpg" align = "center">
