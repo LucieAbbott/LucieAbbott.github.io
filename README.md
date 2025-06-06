@@ -52,7 +52,7 @@
   <br>
   <center><font size = "4">Basic Tool Kit: <font style = "Garamond">$104.99</font></font>
     <font size = "2">Our Basic Tool Kit is designed to set you up with the basic tools you will need to start fixing things up. It includes all the basic tools you will need like a hammer, screwdriver, pliers, wrenches, screws, nails, and bolts. </font>
-    <img src = >
+    <img src = "Toolkit.jpg>
                             </center>
   <br>
   
