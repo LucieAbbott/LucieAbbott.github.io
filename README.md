@@ -16,10 +16,33 @@
   <br>
   <ol>
     <li><font color = "Blue">Personal Tools and Products</font></li>
+    <ul>
+       <li>Basic Tool Kit: Includes a hammer, screw driver, pliers, wrench, screws, nails, and bolts. <font size = "2"><i>You can buy each of these tools individually as well</i></font></li>
+      <li>Power Drill</li>
+      <li>Box Cutter</li>
+      <li>Work Bench</li>
+    </ul>
     <li><font color = "Green">Professional Tools</font></li>
+    <ul>
+      <li>Band Saw</li>
+      <li>Jackhammer</li>
+      <li>Impact Driver</li>
+      <li>Nail Gun</li>
+    </ul>
     <li><font color = "Red">Safety Equipment</font></li>
+    <ul>
+      <li>Hard Hat</li>
+      <li>High Visibility Vest</li>
+      <li>Workmen's Gloves</li>
+      <li>Steel Toe Boots</li>
+    </ul>
     <li><font color = "Purple">Professional Materials</font></li>
     <i><font size = "2">If you have questions, or want to place a custom materials orders, please email our <a href = "mailto: abbott47@purdue.edu">Materials Specifications Team</a>.</font></i>
+    <ul>
+      <li>Lumber</li>
+      <li>Iron Rods</li>
+      <li>Concrete</li>
+    </ul>
   </ol>
 </body>
 
