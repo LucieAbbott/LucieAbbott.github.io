@@ -19,7 +19,6 @@
     <li><font color = "Green">Professional Tools</font></li>
     <li><font color = "Red">Safety Equipment</font></li>
     <li><font color = "Purple">Professional Materials</font></li>
-    <br>
     <i><font size = "2">If you have questions, or want to place a custom materials orders, please email our <a href = "mailto: abbott47@purdue.edu">Materials Specifications Team</a>.</font></i>
   </ol>
 </body>
