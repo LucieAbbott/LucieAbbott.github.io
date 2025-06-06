@@ -12,7 +12,7 @@
   <br>
   Here is a quick run down of our products by category:
   <br>
-  <font size = "2"<i>Please scroll down this page for <b><u>more information</u></b> about a specific product</i></font>
+  <font size = "2"><i>Please scroll down this page for <b><u>more information</u></b> about a specific product</i></font>
   <br>
   <ol>
     <li><font color = "Blue">Personal Tools and Products</font></li>
