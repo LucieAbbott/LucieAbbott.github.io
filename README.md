@@ -3,7 +3,8 @@
 
 <html>
 <head>
-  <b><h1>Product Offerings</b></h1>
+  <b><h1>Product Offerings</h1></b>
+    <br>
 </head>
 
 <body>
@@ -25,5 +26,5 @@
   </ol>
 </body>
 
-  
+<br>  
 </html>
