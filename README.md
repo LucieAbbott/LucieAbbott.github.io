@@ -137,7 +137,14 @@
   <br>
   <br>
   <br>
-  <font size = "2"><i>This page was last modified on <!--#flastmod file = "README.md"--></i></font>
+  <font size = "2"><i><p>This page was last modified on <span id = "lastModified"></span></p></i></font>
+  <script>
+    function lastmodified() {
+      var lastmodified = new Date(document.lastmodified);
+      document.getElementById("lastModified").innerHTML = lastModified;
+      }
+    lastmodified();
+  </script>
   
 </body>
 
