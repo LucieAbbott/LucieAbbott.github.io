@@ -110,20 +110,20 @@
   Our safety equipment is designed to keep you safe. To understand the importance of safety equipment check out this article <a href = "https://www.lumberfi.com/blog/the-importance-of-protective-gear-in-construction#:~:text=To%20conclude%2C%20protective%20gear%20in,extreme%20temperatures%2C%20and%20heavy%20machinery."> here</a>.
   <br>
   <br>
-  <center><font size = "4">Band Saw: <font style = "font-family:Times New Roman">$104.99</font></font></center>
-    <center><img src = "Bandsaw.png" width = 400 height = 267></center>
+  <center><font size = "4">Hard Hat: <font style = "font-family:Times New Roman">$74.99</font></font></center>
+    <center><img src = "HardHat.jpeg" width = 400 height = 267></center>
     <br>
     <br>
-    <center><font size = "4">Jack Hammer: <font style = "font-family:Times New Roman">$344.99</font></font></center>
-    <center><img src = "JackHammer.jpeg" width = 400 height = 267></center>
+    <center><font size = "4">High Visibility Vest: <font style = "font-family:Times New Roman">$34.99</font></font></center>
+    <center><img src = "HighVisVest.jpeg" width = 400 height = 267></center>
     <br>
     <br>
-    <center><font size = "4">Impact Driver: <font style = "font-family:Times New Roman">$194.99</font></font></center>
-    <center><img src = "ImpactDriver.jpeg" width = 400 height = 267></center>
+    <center><font size = "4">Workmen's Gloves: <font style = "font-family:Times New Roman">$74.99</font></font></center>
+    <center><img src = "Gloves.jpeg" width = 400 height = 267></center>
     <br>
     <br>
-    <center><font size = "4">Nail Gun: <font style = "font-family:Times New Roman">$102.99</font></font></center>
-    <center><img src = "NailGun.jpeg" width = 400 height = 267></center>
+    <center><font size = "4">Steel Toed Boots: <font style = "font-family:Times New Roman">$235.99</font></font></center>
+    <center><img src = "Boots.jpeg" width = 400 height = 267></center>
     <br>
     <br>
                   
