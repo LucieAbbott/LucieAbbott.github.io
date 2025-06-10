@@ -80,6 +80,29 @@
     <center><img src = "WorkBench.jpeg" width = 400 height = 267></center>
     <br>
     <br>
+    <br>
+  <font size = "5" color = "Green">Professional Tools and Products</font>
+  <br>
+  <br>
+  Our professional tools are designed for professional use only. We offer specialized tools for your construction needs Our tools are durable and industry-tested to ensure they are high quality, long lasting, and reliable.
+  <br>
+  <br>
+  <center><font size = "4">Band Saw: <font style = "font-family:Times New Roman">$104.99</font></font></center>
+    <center><img src = "Bandsaw.png" width = 400 height = 267></center>
+    <br>
+    <br>
+    <center><font size = "4">Jack Hammer: <font style = "font-family:Times New Roman">$344.99</font></font></center>
+    <center><img src = "JackHammer.jpeg" width = 400 height = 267></center>
+    <br>
+    <br>
+    <center><font size = "4">Impact Driver: <font style = "font-family:Times New Roman">$194.99</font></font></center>
+    <center><img src = "ImpactDriver.jpeg" width = 400 height = 267></center>
+    <br>
+    <br>
+    <center><font size = "4">Nail Gun: <font style = "font-family:Times New Roman">$102.99</font></font></center>
+    <center><img src = "NailGun.jpeg" width = 400 height = 267></center>
+    <br>
+    <br>
                   
   <br>
   
