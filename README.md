@@ -137,7 +137,6 @@
   <br>
   <br>
   <br>
-  <font size = "2"><i><p>This page was last modified on <span id = "lastModified"></span></p></i></font>
   <script>
     function lastmodified() {
       var lastmodified = new Date(document.lastmodified);
@@ -145,6 +144,7 @@
       }
     lastmodified();
   </script>
+  <font size = "2"><i><p>This page was last modified on <span id = "lastModified"></span></p></i></font>
   
 </body>
 
