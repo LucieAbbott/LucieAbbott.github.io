@@ -139,8 +139,7 @@
     <script>
     var date = document.lastModified;
     document.getElementById("datemodified").innerHTML = "This page was last modified on " +date;
-  </script>
-  </font></i>
+  </script></font></i>
   
 </body>
 
