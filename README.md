@@ -67,7 +67,10 @@
     <center><font size = "4">Screws, Nails, and Bolts: <font style = "font-family:Times New Roman">$3.99 each or $10.99 for all </font></font></center>
     <br>
     <br>
-    
+    <center><font size = "4">Power Drill: <font style = "font-family:Times New Roman">$44.99</font></font></center>
+    <center><img src = "PowerDrill.jpeg" width = 400 height = 267></center>
+    <br>
+    <br>
                   
   <br>
   
