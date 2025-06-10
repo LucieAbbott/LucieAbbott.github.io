@@ -60,6 +60,7 @@
     <br>
   The prices for each item separately are as follows:
   <br>
+  <br>
     <center><font size = "4">Hammer: <font style = "font-family:Times New Roman">$12.99</font></font></center>
     <center><font size = "4">Screwdriver: <font style = "font-family:Times New Roman">$6.99</font></font></center>
     <center><font size = "4">Pliers: <font style = "font-family:Times New Roman">$6.99</font></font></center>
