@@ -1,4 +1,4 @@
-<!-- Products page: 2+ font styles, 1-3 hyperlinks - 1 must be link to relevant site outside of you company site that don't replace website pages in browser window, 1+ pictures, ordered list, unordered list, file that can be downloaded relevant to the company, date the page was last modified-->
+<!-- Products page: 1-3 hyperlinks - 1 must be link to relevant site outside of you company site that don't replace website pages in browser window, file that can be downloaded relevant to the company, date the page was last modified-->
 
 <html>
 <head>
