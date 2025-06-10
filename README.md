@@ -58,7 +58,6 @@
     <center><img src = "Toolkit.jpg" width = 400 height = 267></center>
     <br>
     <br>
-  <center>The prices for each individual item are as follows:</center>
     <center><font size = "4">Hammer: <font style = "font-family:Times New Roman">$12.99</font></font></center>
     <center><font size = "4">Screwdriver: <font style = "font-family:Times New Roman">$6.99</font></font></center>
     <center><font size = "4">Pliers: <font style = "font-family:Times New Roman">$6.99</font></font></center>
