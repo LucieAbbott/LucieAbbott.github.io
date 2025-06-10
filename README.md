@@ -133,7 +133,7 @@
   If you would like to order professional materials please send an email to our <a href = "mailto: abbott47@purdue.edu">Materials Specifications Team</a>.
   <br>
   <br>
-  To see the materials we offer, please reference this <a href = "Professional Materials.pdf"> pdf file</a>.          
+  To see the materials we offer, please reference this <a href = "Professional Materials.pdf" target = "_blank"> pdf file</a>.          
   <br>
   <br>
   <br>
