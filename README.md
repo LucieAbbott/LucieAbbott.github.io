@@ -60,13 +60,9 @@
     <br>
   <center>The prices for each individual item are as follows:</center>
     <center><font size = "4">Hammer: <font style = "font-family:Times New Roman">$12.99</font></font></center>
-    <br>
     <center><font size = "4">Screwdriver: <font style = "font-family:Times New Roman">$6.99</font></font></center>
-    <br>
     <center><font size = "4">Pliers: <font style = "font-family:Times New Roman">$6.99</font></font></center>
-    <br>
     <center><font size = "4">Wrench: <font style = "font-family:Times New Roman">$5.99</font></font></center>
-    <br>
     <center><font size = "4">Screws, Nails, and Bolts: <font style = "font-family:Times New Roman">$3.99 each or $10.99 for all </font></font></center>
                   
   <br>
