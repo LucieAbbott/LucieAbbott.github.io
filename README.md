@@ -107,7 +107,7 @@
   <font size = "5" color = "Red">Safety Equipment</font>
   <br>
   <br>
-  Our safety equipment is designed to keep you safe. To understand the importance of safety equipment check out this article <a href = "https://www.lumberfi.com/blog/the-importance-of-protective-gear-in-construction#:~:text=To%20conclude%2C%20protective%20gear%20in,extreme%20temperatures%2C%20and%20heavy%20machinery. = _blank"> here</a>.
+  Our safety equipment is designed to keep you safe. To understand the importance of safety equipment check out this article <a href = "https://www.lumberfi.com/blog/the-importance-of-protective-gear-in-construction#:~:text=To%20conclude%2C%20protective%20gear%20in,extreme%20temperatures%2C%20and%20heavy%20machinery." target = "_blank"> here</a>.
   <br>
   <br>
   <center><font size = "4">Hard Hat: <font style = "font-family:Times New Roman">$74.99</font></font></center>
