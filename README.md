@@ -126,6 +126,11 @@
     <center><img src = "Boots.jpeg" width = 400 height = 267></center>
     <br>
     <br>
+    <br>
+    <font size = "5" color = "Purple">Professional Materials</font>
+  <br>
+  <br>
+  If you would like to order professional materials please send an email to our <a href = "mailto: abbott47@purdue.edu">Materials Specifications Team</a>.</font></i>
                   
   <br>
   
