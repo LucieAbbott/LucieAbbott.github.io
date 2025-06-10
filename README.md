@@ -58,13 +58,16 @@
     <center><img src = "Toolkit.jpg" width = 400 height = 267></center>
     <br>
     <br>
-  <center> The prices for each item separately are as follows:</center>
+  The prices for each item separately are as follows:
   <br>
     <center><font size = "4">Hammer: <font style = "font-family:Times New Roman">$12.99</font></font></center>
     <center><font size = "4">Screwdriver: <font style = "font-family:Times New Roman">$6.99</font></font></center>
     <center><font size = "4">Pliers: <font style = "font-family:Times New Roman">$6.99</font></font></center>
     <center><font size = "4">Wrench: <font style = "font-family:Times New Roman">$5.99</font></font></center>
     <center><font size = "4">Screws, Nails, and Bolts: <font style = "font-family:Times New Roman">$3.99 each or $10.99 for all </font></font></center>
+    <br>
+    <br>
+    
                   
   <br>
   
