@@ -92,7 +92,7 @@
     <br>
     <br>
     <center><font size = "4">Jack Hammer: <font style = "font-family:Times New Roman">$344.99</font></font></center>
-    <center><img src = "JackHammer.jpeg" width = 400 height = 267></center>
+    <center><img src = "JackHammer.jpeg" width = 152 height = 267></center>
     <br>
     <br>
     <center><font size = "4">Impact Driver: <font style = "font-family:Times New Roman">$194.99</font></font></center>
@@ -100,7 +100,7 @@
     <br>
     <br>
     <center><font size = "4">Nail Gun: <font style = "font-family:Times New Roman">$102.99</font></font></center>
-    <center><img src = "NailGun.jpeg" width = 400 height = 267></center>
+    <center><img src = "NailGun.jpeg" width = 300 height = 300></center>
     <br>
     <br>
     <br>
