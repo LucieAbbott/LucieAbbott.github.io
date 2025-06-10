@@ -1,4 +1,4 @@
-<!-- Products page: 1-3 hyperlinks - 1 must be link to relevant site outside of you company site that don't replace website pages in browser window, file that can be downloaded relevant to the company, date the page was last modified-->
+<!-- Products page: 1-3 hyperlinks -  file that can be downloaded relevant to the company, date the page was last modified-->
 
 <html>
 <head>
@@ -131,6 +131,8 @@
   <br>
   <br>
   If you would like to order professional materials please send an email to our <a href = "mailto: abbott47@purdue.edu">Materials Specifications Team</a>.
+  <br>
+  <center><font size = "4">To see the materials we offer, please reference this <a href = "Professional Materials.pdf"> pdf file</a>.</font></center>
                   
   <br>
   
