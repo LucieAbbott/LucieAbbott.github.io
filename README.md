@@ -137,11 +137,12 @@
   <br>
   <br>
   <br>
-  <div id = "datemodified" style: "font-size: small; font-style: italic;"></div>
+  <font size = "2"><i><div id = "datemodified"></div>
     <script>
     var date = document.lastModified;
     document.getElementById("datemodified").innerHTML = "This page was last modified on " +date;
   </script>
+  </font></i>
   
 </body>
 
