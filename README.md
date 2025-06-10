@@ -111,15 +111,15 @@
   <br>
   <br>
   <center><font size = "4">Hard Hat: <font style = "font-family:Times New Roman">$74.99</font></font></center>
-    <center><img src = "HardHat.jpeg" width = 400 height = 267></center>
+    <center><img src = "HardHat.jpeg" width = 300 height = 300></center>
     <br>
     <br>
     <center><font size = "4">High Visibility Vest: <font style = "font-family:Times New Roman">$34.99</font></font></center>
-    <center><img src = "HighVisVest.jpeg" width = 400 height = 267></center>
+    <center><img src = "HighVisVest.jpeg" width = 300 height = 300></center>
     <br>
     <br>
     <center><font size = "4">Workmen's Gloves: <font style = "font-family:Times New Roman">$74.99</font></font></center>
-    <center><img src = "Gloves.jpeg" width = 400 height = 267></center>
+    <center><img src = "Gloves.jpeg" width = 300 height = 300></center>
     <br>
     <br>
     <center><font size = "4">Steel Toed Boots: <font style = "font-family:Times New Roman">$235.99</font></font></center>
