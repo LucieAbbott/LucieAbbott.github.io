@@ -1,5 +1,3 @@
-<!-- Products page: 1-3 hyperlinks -  file that can be downloaded relevant to the company, date the page was last modified-->
-
 <html>
 <head>
   <b><h1>Product Offerings</h1></b>
@@ -134,6 +132,8 @@
   <br>
   <br>
   To see the materials we offer, please reference this <a href = "Professional Materials.pdf" target = "_blank"> pdf file</a>.          
+  <br>
+  <br>
   <br>
   <br>
   <br>
