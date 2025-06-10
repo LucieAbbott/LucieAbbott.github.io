@@ -72,6 +72,14 @@
     <center><img src = "PowerDrill.jpeg" width = 400 height = 267></center>
     <br>
     <br>
+    <center><font size = "4">Box Cutter: <font style = "font-family:Times New Roman">$14.99</font></font></center>
+    <center><img src = "BoxCutter.jpeg" width = 400 height = 267></center>
+    <br>
+    <br>
+    <center><font size = "4">Work Bench: <font style = "font-family:Times New Roman">$144.99</font></font></center>
+    <center><img src = "WorkBench.jpeg" width = 400 height = 267></center>
+    <br>
+    <br>
                   
   <br>
   
