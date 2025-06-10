@@ -135,8 +135,6 @@
   <br>
   <br>
   <br>
-  <br>
-  <br>
   <font size = "2"><i><div id = "datemodified"></div>
     <script>
     var date = document.lastModified;
