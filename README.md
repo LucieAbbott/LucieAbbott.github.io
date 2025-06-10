@@ -69,7 +69,7 @@
     <br>
     <br>
     <center><font size = "4">Power Drill: <font style = "font-family:Times New Roman">$44.99</font></font></center>
-    <center><img src = "PowerDrill.jpeg" width = 400 height = 267></center>
+    <center><img src = "PowerDrill.jpeg"></center>
     <br>
     <br>
     <center><font size = "4">Box Cutter: <font style = "font-family:Times New Roman">$14.99</font></font></center>
